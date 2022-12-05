@@ -1,0 +1,22 @@
+{
+    "lang": "pl",
+    "choose-lang": "Wybierz język",
+    "meta-desc": "Szukasz ludzi do gry? A może chcesz miło spędzić czas, rozmawiając z ciekawymi ludźmi? W takim razie dołącz do nas i buduj z nami społeczność marzeń.",
+    "meta-desc-discord": "Dołącz do naszej społeczności i wspólnie rozwijaj ją z nami.",
+    "nav-home": "Strona Główna",
+    "nav-dashboard": "Panel Gracza",
+    "nav-dashboard-shop": "Sklep",
+    "nav-dashboard-ranking": "Ranking",
+    "discord-p": "Dołącz do naszej społeczności i wspólnie rozwijaj ją z nami.",
+    "discord-join": "Dołącz do nas",
+    "header-title": "Playergency",
+    "header-desc": "Szukasz ludzi do gry? Dołącz do nas.",
+    "footer-steam-group": "Grupa Steam",
+    "footer-fb-group": "Grupa Facebook",
+    "footer-copyright": "Wszelkie prawa zastrzeżone.",
+    "footer-author": "Stworzone z ❤️ przez",
+    "error-404": "Nie mogliśmy znaleźć tej strony.",
+    "error-go-back": "Powrót do strony głównej",
+    "error-with-status": "Wystąpił problem z serwerem: {{statusCode}}",
+    "error-without-status": "Wystąpił problem z serwerem."
+}

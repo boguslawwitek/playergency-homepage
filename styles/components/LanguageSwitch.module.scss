@@ -1,0 +1,84 @@
+.btn {
+    background-color: transparent;
+    border: none;
+    padding: 0 15px 15px 15px;
+    color: #de2845;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.globe {
+    font-size: 1.2rem;
+}
+
+.language {
+    position: relative;
+}
+
+.modal {
+    position: absolute;
+    bottom: 40px;
+    right: 35px;
+    background-color: black;
+
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    border-radius: 10px;
+}
+
+.modal a {
+    color: white;
+    text-decoration: none;
+}
+
+.text {
+    font-size: 1.1rem;
+    text-transform: uppercase;
+}
+
+.lang-text {
+    font-size: 0.85rem;
+    text-align: center;
+    width: 100%;
+    color: rgba(255, 255, 255, 0.4);
+    padding: 2px 0 5px 0;
+}
+
+.language-box {
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 13px 20px;
+    border-radius: 10px;
+    width: 100%;
+    transition: .2s;
+
+    &:hover {
+        background-color: rgba(255, 255, 255, 0.1);
+        text-decoration: none;
+    }
+}
+
+.lang-img {
+    display: block;
+    width: 32px;
+    height: 20px;
+    border-radius: 4px;
+    margin-right: 10px;
+    box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+}
+
+.disabled-link {
+    pointer-events: none;
+    background-color: rgb(163, 163, 163, 0.1);
+}
+
+@media (max-width: 800px) {
+    .btn {
+        margin-right: 0;
+        padding: 15px;
+    }
+}
